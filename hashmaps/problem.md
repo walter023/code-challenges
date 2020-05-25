@@ -1,4 +1,4 @@
-#
+# Sherlock and Anagrams
 
 Two strings are anagrams of each other if the letters of one string can be rearranged to form the other string. Given a string, find the number of pairs of substrings of the string that are anagrams of each other.
 
@@ -56,6 +56,6 @@ _Explanation 1_
 For the first query, we have anagram pairs and at **_[i,i],[q,q]_** and **_[ifa,fai]_**
 
 For the second query:
-There are 6 anagrams of the form  **_[k,k]._**
-There are 3 anagrams of the form  **_[kk,kk]_**
-There is 1 anagram of the form  **_[kkk,kkk]_**
+- There are 6 anagrams of the form  **_[k,k]._**
+- There are 3 anagrams of the form  **_[kk,kk]_**
+- There is 1 anagram of the form  **_[kkk,kkk]_**
